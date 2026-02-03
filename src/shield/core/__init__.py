@@ -1,0 +1,1 @@
+"""Core shield functionality"""
